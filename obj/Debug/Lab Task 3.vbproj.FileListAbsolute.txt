@@ -1,0 +1,29 @@
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Form1.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Resources.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Opening.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.exe.config
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.exe
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.pdb
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\bin\Debug\Lab Task 3.xml
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.exe
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.xml
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab Task 3.pdb
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Dialog1.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Setting.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Help.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.LoadDialog.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Gamesaved.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Escaped.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Run.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Win.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Inventory.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.MagicItemScroll.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Magic_Item_Excalibur.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Magic_Item_Hollow_Mask.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Magic_Item_Lightning_Rail_Finger.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Magic_Item_Shiba_Clan_Pistol.resources
+C:\Users\User\source\repos\Lab Task 3\Lab Task 3\obj\Debug\Lab_Task_3.Magic_Item_System_Alert_871.resources
